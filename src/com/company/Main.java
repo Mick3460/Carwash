@@ -234,6 +234,7 @@ public class Main {
         System.out.println("1 Eco vask: 50kr");
         System.out.println("2 Standard vask: 90kr");
         System.out.println("3 Deluxe vask: 120kr\n");
+        System.out.println("VI LAVER EN ÆNDRING OG KOMMENTAR TIL GITHUB");
     }
 
     public static void showRecords() {
